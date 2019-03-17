@@ -29,4 +29,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### Examples: 
 
-![alt-text-1](https://github.com/gkalyan04/react-todo-app/blob/master/todo.png) ![alt-text-2](https://github.com/gkalyan04/react-todo-app/blob/master/todo1.png)
+![alt-text-1](https://github.com/gkalyan04/react-todo-app/blob/master/todo.png)  ![alt-text-2](https://github.com/gkalyan04/react-todo-app/blob/master/todo1.png)
