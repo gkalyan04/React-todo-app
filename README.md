@@ -27,6 +27,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-###Examples: 
+### Examples: 
 
 ![alt-text-1](https://github.com/gkalyan04/react-todo-app/blob/master/todo.png) ![alt-text-2](https://github.com/gkalyan04/react-todo-app/blob/master/todo1.png)
